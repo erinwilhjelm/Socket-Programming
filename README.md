@@ -1,4 +1,4 @@
-# Unencrypted Instant-Messenger
+# Unencrypted Instant Messenger
 A simple unencrypted instant messenger. The program reads from standard input and sends input messages to another instance of the program running on a different machine; received messages are sent to standard output
 # Encrypted Instant Messenger
 
